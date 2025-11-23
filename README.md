@@ -1,5 +1,5 @@
 # MindX-PTB39
-## Đây là github repository chứa các file và video liên quan đến từng buổi học của khóa Computer Science Intensive của lớp PTB39 tại MindX 📖
+## Đây là github repository chứa các file và video liên quan đến từng buổi học của khóa Python App Producer Basic của lớp PTB39 tại MindX 📖
 ### Link video các buổi tham khảo bên dưới📹:
 #### Buổi 1: [https://youtu.be/OSAhbzs3jFk](https://youtu.be/wxmLCibgAqQ)
 #### Buổi 2: [https://youtu.be/UNpqQfvBO1A](https://youtu.be/_uVytsTlMMs)
